@@ -1,0 +1,10 @@
+C:\Users\Ян Серов\source\repos\Змейка\Змейка\bin\Debug\Змейка.exe.config
+C:\Users\Ян Серов\source\repos\Змейка\Змейка\bin\Debug\Змейка.exe
+C:\Users\Ян Серов\source\repos\Змейка\Змейка\bin\Debug\Змейка.pdb
+C:\Users\Ян Серов\source\repos\Змейка\Змейка\obj\Debug\Змейка.csprojAssemblyReference.cache
+C:\Users\Ян Серов\source\repos\Змейка\Змейка\obj\Debug\Змейка.Form1.resources
+C:\Users\Ян Серов\source\repos\Змейка\Змейка\obj\Debug\Змейка.Properties.Resources.resources
+C:\Users\Ян Серов\source\repos\Змейка\Змейка\obj\Debug\Змейка.csproj.GenerateResource.cache
+C:\Users\Ян Серов\source\repos\Змейка\Змейка\obj\Debug\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\Ян Серов\source\repos\Змейка\Змейка\obj\Debug\Змейка.exe
+C:\Users\Ян Серов\source\repos\Змейка\Змейка\obj\Debug\Змейка.pdb
